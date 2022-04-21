@@ -39,14 +39,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 Losing with 3 strikes:
 ![](http://g.recordit.co/YEVElvdirE.gif)
+
 Winning(note the pattern is randomized):
 ![](http://g.recordit.co/DCAxn44SKs.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-[YOUR ANSWER HERE]
+
+  https://www.w3schools.com/js/js_random.asp - for generating random numbers
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
